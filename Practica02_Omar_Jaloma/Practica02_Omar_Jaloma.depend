@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1550942028 source:c:\users\acer\documents\2do semestre lic. matemáticas\elementos de probabilidad y estadística\tareas\practica02_omar_jaloma\main.cpp
+	<iostream>
+	"vector.cpp"
+	"Matrix.cpp"
+	<cstdlib>
+
+1550894232 c:\users\acer\documents\2do semestre lic. matemáticas\elementos de probabilidad y estadística\tareas\practica02_omar_jaloma\vector.cpp
+	<iostream>
+	"Vector.h"
+
+1550894232 c:\users\acer\documents\2do semestre lic. matemáticas\elementos de probabilidad y estadística\tareas\practica02_omar_jaloma\vector.h
+
+1550942092 c:\users\acer\documents\2do semestre lic. matemáticas\elementos de probabilidad y estadística\tareas\practica02_omar_jaloma\matrix.cpp
+	<iostream>
+	"Matrix.h"
+
+1550941296 c:\users\acer\documents\2do semestre lic. matemáticas\elementos de probabilidad y estadística\tareas\practica02_omar_jaloma\matrix.h
+

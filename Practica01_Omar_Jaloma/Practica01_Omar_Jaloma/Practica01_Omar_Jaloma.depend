@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555974347 source:c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica01_omar_jaloma\practica01_omar_jaloma\main.cpp
+	"BS.h"
+	<iostream>
+
+1555951480 c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica01_omar_jaloma\practica01_omar_jaloma\bs.h
+
+1555974463 source:c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica01_omar_jaloma\practica01_omar_jaloma\bs.cpp
+	"BS.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+

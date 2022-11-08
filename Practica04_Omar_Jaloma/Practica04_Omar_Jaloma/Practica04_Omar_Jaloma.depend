@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553378700 source:c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica04_omar_jaloma\practica04_omar_jaloma\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

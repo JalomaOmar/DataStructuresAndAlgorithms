@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1551561613 source:c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica03_omar_jaloma\practica03_omar_jaloma\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+	<string>
+	"pil.cpp"
+	"col.cpp"
+
+1551561334 c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica03_omar_jaloma\practica03_omar_jaloma\pil.cpp
+	"pil.h"
+	"ndo.h"
+
+1551547325 c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica03_omar_jaloma\practica03_omar_jaloma\pil.h
+	"ndo.h"
+
+1551540409 c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica03_omar_jaloma\practica03_omar_jaloma\ndo.h
+
+1551547325 c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica03_omar_jaloma\practica03_omar_jaloma\col.cpp
+	"col.h"
+
+1551547325 c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica03_omar_jaloma\practica03_omar_jaloma\col.h
+
