@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553911498 source:c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica05_omar_jaloma\main.cpp
+	<iostream>
+	"Alumno.cpp"
+
+1553911345 c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica05_omar_jaloma\alumno.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<vector>
+	<string>
+	<fstream>
+

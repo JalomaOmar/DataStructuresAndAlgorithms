@@ -1,0 +1,11 @@
+10
+ula		03-01-2003		8
+mao		08-12-2000		7
+elvira		12-01-2002		7
+earl		24-04-2001		7
+natalie		18-06-2001		9
+francesco	18-03-2000		9
+dominque	13-02-2000		8
+marcos		04-01-2000		7
+lyndsay		17-09-2001		8
+miquel		04-03-2002		6

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1558739614 source:c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica10_omar_jaloma\practica10_omar_jaloma\main.cpp
+	"HashT.h"
+
+1558738921 source:c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica10_omar_jaloma\practica10_omar_jaloma\hasht.cpp
+	"HashT.h"
+
+1558738227 c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica10_omar_jaloma\practica10_omar_jaloma\hasht.h
+	<iostream>
+	<vector>
+	<list>
+	<string>
+	<cstdlib>
+	<time.h>
+

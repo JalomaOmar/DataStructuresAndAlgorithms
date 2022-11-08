@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1557118977 source:c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica07_omar_jaloma\practica07_omar_jaloma\main.cpp
+	<iostream>
+	"binarythree.h"
+
+1557077517 c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica07_omar_jaloma\practica07_omar_jaloma\binarythree.h
+	<string>
+	<vector>
+
+1557119177 source:c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica07_omar_jaloma\practica07_omar_jaloma\binarythree.cpp
+	"binarythree.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+

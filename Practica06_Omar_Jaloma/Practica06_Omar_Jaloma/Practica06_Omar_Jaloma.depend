@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1554602582 source:c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica06_omar_jaloma\practica06_omar_jaloma\main.cpp
+	<iostream>
+	<ctime>
+	<vector>
+	<stdlib.h>
+	"AlgMSort.h"
+	<fstream>
+	<conio.h>
+
+1554594142 c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica06_omar_jaloma\practica06_omar_jaloma\algmsort.cpp
+	<iostream>
+	<cstdlib>
+	"AlgMSort.h"
+	<string>
+
+1554602625 c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica06_omar_jaloma\practica06_omar_jaloma\algmsort.h
+	<fstream>
+	<string>
+
+1554602681 source:c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica06_omar_jaloma\practica06_omar_jaloma\algmsort.cpp
+	<iostream>
+	<cstdlib>
+	"AlgMSort.h"
+	<string>
+	<fstream>
+

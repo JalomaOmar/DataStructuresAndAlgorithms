@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1558206642 source:c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica09_omar_jaloma\practica09_omar_jaloma\main.cpp
+	<iostream>
+	"Practica9.h"
+
+1558285903 c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica09_omar_jaloma\practica09_omar_jaloma\practica9.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<map>
+
+1558285903 source:c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica09_omar_jaloma\practica09_omar_jaloma\practica9.cpp
+	"Practica9.h"
+

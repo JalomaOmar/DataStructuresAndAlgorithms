@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1559367119 source:c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica11_omar_jaloma\objetos.cpp
+	"Objetos.h"
+
+1559366626 c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica11_omar_jaloma\objetos.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<vector>
+	<string>
+
+1559369655 source:c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica11_omar_jaloma\main.cpp
+	"Objetos.h"
+

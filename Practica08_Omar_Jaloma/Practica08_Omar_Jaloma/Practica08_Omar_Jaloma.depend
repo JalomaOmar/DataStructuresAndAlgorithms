@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1557619443 source:c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica08_omar_jaloma\practica08_omar_jaloma\main.cpp
+	"PriorQ.h"
+
+1557619943 source:c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica08_omar_jaloma\practica08_omar_jaloma\priorq.cpp
+	"PriorQ.h"
+
+1557619415 c:\users\acer\documents\2do semestre lic. matemáticas\estructuras de datos y algoritmos\tareas\practica08_omar_jaloma\practica08_omar_jaloma\priorq.h
+	<string>
+	<cstdlib>
+	<iostream>
+	<vector>
+
